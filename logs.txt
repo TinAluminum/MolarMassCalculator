@@ -1,0 +1,5 @@
+
+Log 1: 18Mar23
+    - Finish main program
+    - Cant read shit with () yet but will work on that
+    - Should try to mak an app out of it with py2app
