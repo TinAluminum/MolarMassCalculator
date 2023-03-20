@@ -3,3 +3,7 @@ Log 1: 18Mar23
     - Finish main program
     - Cant read shit with () yet but will work on that
     - Should try to mak an app out of it with py2app
+
+Log 2: 19Mar23
+    - Learned how to use Tkinter
+    - Will implement it into the app tmr and maybe make a basic app

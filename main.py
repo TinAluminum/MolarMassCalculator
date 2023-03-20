@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import tkinter
 
 data = pd.read_excel('Molar mass list.xlsx', sheet_name='Sheet1')
 
